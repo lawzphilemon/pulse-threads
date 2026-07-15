@@ -1,0 +1,24 @@
+{
+  "name": "pulse-threads",
+  "version": "1.0.0",
+  "description": "P.U.L.S.E Threads content engine untuk personal brand Lawrence Philemon — intake performa, baseline analysis, dan produksi batch konten Threads (pilar asuransi + digital marketing).",
+  "author": {
+    "name": "Lawrence Philemon"
+  },
+  "license": "UNLICENSED",
+  "keywords": ["threads", "content", "copywriting", "personal-brand", "asuransi", "social-media"],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "P.U.L.S.E Threads Engine",
+    "shortDescription": "Intake, baseline analysis, dan batch produksi konten Threads",
+    "longDescription": "Threads growth strategist + copywriter untuk personal brand Lawrence Philemon. Menjalankan protokol P.U.L.S.E: Performance intake, Uncover baseline (median-based), Leverage mechanics (algoritma Threads 2026), Script content (hook bank 8 pola + voice kakak protektif), Evaluate & loop. Termasuk compliance asuransi non-negotiable dan self-check sebelum deliver.",
+    "developerName": "Lawrence Philemon",
+    "category": "Productivity",
+    "capabilities": ["Read"],
+    "defaultPrompt": [
+      "$pulse-threads jalankan intake untuk batch konten minggu ini",
+      "$pulse-baseline analisis log threads 30 hari terakhir"
+    ],
+    "brandColor": "#8B1A1A"
+  }
+}

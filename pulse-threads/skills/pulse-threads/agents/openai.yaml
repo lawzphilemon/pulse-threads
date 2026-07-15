@@ -1,0 +1,8 @@
+interface:
+  display_name: "P.U.L.S.E Threads Engine"
+  short_description: "Intake, baseline, dan batch produksi konten Threads — personal brand Lawrence"
+  brand_color: "#8B1A1A"
+  default_prompt: "jalankan intake untuk batch konten threads minggu ini"
+
+policy:
+  allow_implicit_invocation: true
